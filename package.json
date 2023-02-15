@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./bin/server",
+    "start": "node ./bin/server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
